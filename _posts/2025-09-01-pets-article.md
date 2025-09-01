@@ -1,5 +1,5 @@
 ---
-title: "New title for pets"
+title: "pets: Dogs, Cats, Birds"
 categories:
   - Blog
 tags:
