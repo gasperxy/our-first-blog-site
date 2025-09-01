@@ -25,7 +25,7 @@ search: true
 
 
 author:
-  name   : "First Lastname"
+  name   : "Gašper"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
