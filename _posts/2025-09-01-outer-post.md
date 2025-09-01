@@ -7,6 +7,7 @@ tags:
   - math
 ---
 
+This is a new equation.
 
 Display: \\[\alpha = \frac{\xi}{\theta}\\]
 
